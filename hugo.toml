@@ -49,7 +49,7 @@ filename = "sitemap.xml"
 
 [params]
 text_color = ""
-author = ""
+author = "WillHack"
 favicon = ""
 site_logo = ""
 description = "The last theme you'll ever need. Maybe."
