@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WillHack pl</title>
-    <link>http://localhost:1313/pl/</link>
+    <link>http://localhost:1313/quickstart/pl/</link>
     <description>Recent content on WillHack pl</description>
     <generator>Hugo</generator>
     <language>pl-PL</language>
-    <atom:link href="http://localhost:1313/pl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/quickstart/pl/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
