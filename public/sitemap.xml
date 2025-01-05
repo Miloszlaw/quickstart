@@ -9,17 +9,7 @@
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/quickstart/es/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
     <loc>http://localhost:1313/quickstart/pl/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/quickstart/de/sitemap.xml</loc>
     
   </sitemap>
   

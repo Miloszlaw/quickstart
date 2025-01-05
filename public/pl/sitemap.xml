@@ -1,77 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>http://localhost:1313/quickstart/pl/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/quickstart/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/quickstart/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/quickstart/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/quickstart/pl/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/quickstart/pl/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/quickstart/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/quickstart/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/quickstart/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/quickstart/pl/tags/"
-                />
-  </url><url>
     <loc>http://localhost:1313/quickstart/pl/</loc>
-    <changefreq>monthly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/quickstart/"
-                />
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/quickstart/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/quickstart/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/quickstart/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/quickstart/pl/"
-                />
+      rel="alternate"
+      hreflang="pl"
+      href="http://localhost:1313/quickstart/pl/"
+    />
   </url>
 </urlset>
