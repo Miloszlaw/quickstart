@@ -11,7 +11,7 @@ title = "WillHack"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-   description = "Poja świetna strona"
+   description = "Moja świetna strona"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
@@ -21,7 +21,7 @@ title = "WillHack"
 #   imageQuality = 96
    headline = "I'm only human"
    bio = "A little bit about you"
-#   links = [
+   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -70,4 +70,4 @@ title = "WillHack"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+   ]
